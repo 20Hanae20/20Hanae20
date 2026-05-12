@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Je suis une développeuse Full Stack en TS,<br> passionnée par le digital et motivée par l’envie de créer des solutions utiles et accessibles. 🌐✨<br>Curieuse et déterminée, j’aime apprendre continuellement et relever de nouveaux défis techniques. 🚀<br>Je m’implique dans des projets qui ont du sens et je donne toujours le meilleur de moi-même,<br> que ce soit dans le développement web, le design d’interfaces ou la résolution de problèmes. 🎨🛠️<br>Mon objectif est d’évoluer, <br>de construire des projets solides et d’avoir un impact positif à travers mon travail. 🌱💫
+💻 Je suis une développeuse Full Stack en ISTA,<br> passionnée par le digital et motivée par l’envie de créer des solutions utiles et accessibles. 🌐✨<br>Curieuse et déterminée, j’aime apprendre continuellement et relever de nouveaux défis techniques. 🚀<br>Je m’implique dans des projets qui ont du sens et je donne toujours le meilleur de moi-même,<br> que ce soit dans le développement web, le design d’interfaces ou la résolution de problèmes. 🎨🛠️<br>Mon objectif est d’évoluer, <br>de construire des projets solides et d’avoir un impact positif à travers mon travail. 🌱💫
 
 
 ## 🌐 Socials:
