@@ -13,8 +13,8 @@
 <a href="https://github.com/20Hanae20">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://wa.me/212660203271">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="tel:+212660203271">
+  <img src="https://img.shields.io/badge/Appeler-25D366?style=for-the-badge&logo=phone&logoColor=white" />
 </a>
 
 </div>
@@ -149,31 +149,31 @@ const hanae = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=20Hanae20&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20Hanae20&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=20Hanae20&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20Hanae20&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=20Hanae20&theme=nightowl&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=20Hanae20&theme=nightowl&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=20Hanae20&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=20Hanae20&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
-<details>
-<summary>🔝 Top Contributed Repo</summary>
-<br>
-<img src="https://github-contributor-stats.vercel.app/api?username=20Hanae20&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=20Hanae20&theme=react-dark&hide_border=true&area=true" width="95%" />
+</p>
 
 ---
 
-### ✍️ Quote du jour
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/20Hanae20/20Hanae20/output/github-contribution-grid-snake.svg" width="95%" />
 </p>
+
+<p align="center"><sub>✨ Animation générée automatiquement à partir de tes contributions GitHub — active-la avec le fichier <code>snake.yml</code> fourni (voir instructions).</sub></p>
 
 ---
 
